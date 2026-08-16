@@ -92,13 +92,6 @@ Locally-deployed clinical triage agent for regulated healthcare — zero cloud d
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manobhisriram&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manobhisriram&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🎓 Certifications
 
 - Microsoft Certified: Azure AI Developer Associate (2026)
