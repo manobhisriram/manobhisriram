@@ -103,6 +103,6 @@ Locally-deployed clinical triage agent for regulated healthcare — zero cloud d
 
 **Open to Generative AI / Agentic AI Engineer roles — remote, hybrid, or on-site.**
 
-📧 manobhisriram@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/manobhi-sriram) · 🌐 [Portfolio](https://manobhi-sriram-portfolio.vercel.app/)
+📧 manobhisriram@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/manobhi-sriram) ·
 
 </div>
