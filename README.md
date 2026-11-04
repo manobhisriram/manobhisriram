@@ -3,7 +3,6 @@
 # Manobhi Sriram
 ### Generative AI Engineer · Agentic AI Systems · LLM Orchestration
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://manobhi-sriram-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manobhi-sriram)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manobhisriram@gmail.com)
 
